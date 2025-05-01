@@ -22,7 +22,292 @@
             {"text": "Frontspark", "correct":  true},
             {"text": "Sidespark"}
           ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Hvilke par passer sammen?",
+        "pairs":
+          [
+            ["Een", "Hana"],
+            ["To", "Tul"],
+            ["Tre", "Set"],
+            ["Fire", "Net"],
+            ["Fem", "Daseot"],
+            ["Seks", "Yaseot"],
+            ["Syv", "Ilgop"],
+            ["Otte", "Yadul"],
+            ["Ni", "Ahop"],
+            ["Ti", "Yeol"]
+          ]
+      },
+      {
+        "type": "SimpleQuestion",
+        "question": "Hva står 'WT' for?",
+        "answers":
+        [
+          {"text": "World Taekwondo", "correct": true},
+          {"text": "Winning Techniques"},
+          {"text": "Warrior Training"},
+          {"text": "Worldwide Taekwondo"}
+        ]
+      },
+      {
+        "type": "SimpleQuestion",
+        "question": "Hva står 'ITF' for?",
+        "answers":
+        [
+          {"text": "Institute of Traditional Fighting"},
+          {"text": "International Taekwondo Force"},
+          {"text": "International Taekwondo Federation", "correct": true},
+          {"text": "International Training Federation"}
+        ]
+      },
+      {
+        "type": "SimpleQuestion",
+        "question": "Hva står 'TAN' for?",
+        "answers":
+        [
+          {"text": "Taekwondo Athletes Network"},
+          {"text": "Taekwondo Alliance Norway", "correct": true},
+          {"text": "Taekwondo Association National"},
+          {"text": "Traditional Arts Norway"}
+        ]
+      },
+      {
+        "type": "SimpleQuestion",
+        "question": "Hva står 'GTF' for?",
+        "answers":
+        [
+          {"text": "Grandmasters Taekwondo Federation"},
+          {"text": "Global Traditional Federation"},
+          {"text": "Great Taekwondo Federation"},
+          {"text": "Global Taekwondo Federation", "correct": true}
+        ]
+      },
+      {
+        "type": "SimpleQuestion",
+        "question": "Hvilken skole har 'TAN' som sin familieretning?",
+        "answers":
+          [
+            {"text": "Oh Do Kwan", "correct":  true},
+            {"text": "Moo Duk Kwan"},
+            {"text": "Ji Do Kwan"},
+            {"text": "Song Moo Kwan"}
+          ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva sier grunnsetning 1?",
+        "answer":
+        [
+          {"text": "Vis lojalitet mot master og instruktør"}
+        ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva sier grunnsetning 2?",
+        "answer":
+        [
+          {"text": "Vær høflig, ærlig og tålmodig"}
+        ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva sier grunnsetning 3?",
+        "answer":
+        [
+          {"text": "Ha selvdisiplin, selvkontroll og selvtillit"}
+        ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva sier taekwondos lov nr 1?",
+        "answer":
+        [
+          {"text": "Jeg skal følge taekwondos regler"}
+        ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva sier taekwondos lov nr 2?",
+        "answer":
+        [
+          {"text": "Jeg skal respektere instruktør og høyere graderte"}
+        ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva sier taekwondos lov nr 3?",
+        "answer":
+        [
+          {"text": "Jeg skal aldri misbruke Taekwndo"}
+        ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva sier taekwondos lov nr 4?",
+        "answer":
+        [
+          {"text": "Jeg skal kjempe for frihet og rettferdighet"}
+        ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva sier taekwondos lov nr 5?",
+        "answer":
+        [
+          {"text": "Jeg skal hjelpe til å bygge en fredelig verden"}
+        ]
+      },
+      {
+        "type": "Write",
+        "question": "Hva heter det koreanske flagget",
+        "answer":
+        [
+          {"text": "Taeguki"}
+        ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Hvilke par passer sammen?",
+        "pairs":
+          [
+            ["Himmel", "Kun Gwe"],
+            ["Jorden", "Kon Gwe"],
+            ["Måne", "Kam Gwe"],
+            ["Sol", "Ri Gwe"]
+          ]
+      },
+      {
+        "type": "SimpleQuestion",
+        "question": "Hvorfor er det 24 mønster i ITF hyonge?",
+        "answers":
+          [
+            {"text": "Ingen mening bak det"},
+            {"text": "De 24 mønstrene representerer en for hver time i døgnet", "correct": true},
+            {"text": "De 24 mønstrene er en hyllest til 24 grunnleggende prinsipper innen disiplin og respekt"},
+            {"text": "Hver av de 24 mønstrene representerer et stadie i personlig utvikling."},
+            {"text": "Er en tradisjon som reflekterer et spesifikt antall teknikker som skal mestres."}
+          ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Hvilke beltefarge og betydning bak passer sammen?",
+        "pairs":
+          [
+            ["Hvit ", "symboliserer det uvitende"],
+            ["Gult", "symboliserer jordens fruktbarhet"],
+            ["Grønt", "symboliserer planten som gror og har begynt å bære frukter"],
+            ["Blått", "symboliserer himmelen som planten strekker seg mot"],
+            ["Rødt ", "symboliserer fare"],
+            ["Svart", "symboliserer det motsatte av hvitt"]
+          ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Hvilke par passer sammen?",
+        "pairs":
+          [
+            ["Arm", "Pal"],
+            ["Albue", "Palkup"],
+            ["Håndledd", "Palmok"],
+            ["Kne", "Murup"],
+            ["Hæl", "Balmok"]
+          ]
+      },
+      {
+        "type": "Write",
+        "title": "Hva betyr lav på koreansk?",
+        "answer": 
+        [
+          {"keywords": ["Arae"]}
+        ]
+      },
+      {
+        "type": "Write",
+        "title": "Hva betyr midten på koreansk?",
+        "answer": 
+        [
+          {"keywords": ["Momtong"]}
+        ]
+      },
+      {
+        "type": "Write",
+        "title": "Hva betyr høy på koreansk?",
+        "answer": 
+        [
+          {"keywords": ["Olgul"]}
+        ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Hvilke par passer sammen?",
+        "pairs":
+          [
+            ["Stiling", "Kobi/seogi"],
+            ["Slag", "Jierugi"],
+            ["Blokkering", "Makki"],
+            ["Spark", "Chagi"]
+          ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Hvilke par passer sammen?",
+        "pairs":
+          [
+            ["Giv akt", "Charyot"],
+            ["Start", "Shijak"],
+            ["Klar", "Junbi"],
+            ["Hilse", "Kyongnye"],
+            ["Stopp", "baro"]
+          ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Hvilke par passer sammen?",
+        "pairs":
+          [
+            ["Hode", "Mori"],
+            ["Hals", "Mok"],
+            ["Kjeve", "Teok"],
+            ["Kroppen", "Mom"],
+            ["Fot", "Bal"],
+            ["Ben", "Dari"],
+            ["tåball", "Apchuk"],
+            ["Hæl", "Dwitchuk"]
+          ]
+      },
+      {
+        "type": "Write",
+        "title": "Hva heter lillefingersiden av en åpen hånd på koreansk?",
+        "answer": 
+        [
+          {"keywords": ["Sonnal"]}
+        ]
+      },
+      {
+        "type": "Write",
+        "title": "Hva heter tommelfingersiden av en åpen hånd på koreansk?",
+        "answer": 
+        [
+          {"keywords": ["Deongsonnal"]}
+        ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Plasser mønstrene og meningene bak dem sammen",
+        "pairs":
+        [
+          ["Chon Ji", "Himmel og Jord"],
+          ["Tan Gun", "halvt guddommelige grunnleggeren av Korea"],
+          ["To San", "en patriot under den japanske okkupasjonen som særlig får æren for å ha bevart det koreanske utdanningssystemet"],
+          ["Won Hyo", "En munk som introduserte buddhismen til Korea"],
+          ["Yul gok", "filosof som levde på 1500-tallet"],
+          ["Joong Gun", "Patrioten An Jung-geun som snikmyrdet den første japanske generalguvernøren i Korea"],
+          ["Toi Gye", "filosofen Hi Hwang som var en autoritet innen neokonfuciansismen på 1500-tallet"],
+          ["Hwa Rnag", "organisasjon på begynnelsen av 600-tallet som besto av eliten av koreanske ungdommer"],
+          ["Choong Moo", "admiral YiSun-sin som for æren for en viktig sjø seier mot Japan på slutten av 1500-tallet"]
+        ]
       }
-
     ]
 }
