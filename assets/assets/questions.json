@@ -1,0 +1,28 @@
+{
+  "questions":
+    [
+      {
+        "type": "SimpleQuestion",
+        "question": "Hva er stillingen \"Ab kobi\" på norsk?",
+        "answers":
+          [
+            {"text": "L-stilling"},
+            {"text": "Ride-stilling"},
+            {"text": "Vikar-stilling"},
+            {"text": "Lang stilling", "correct":  true}
+          ]
+      },
+      {
+        "type": "SimpleQuestion",
+        "question": "Hva betyr Ab Chiagi?",
+        "answers":
+          [
+            {"text": "En på kjaka!"},
+            {"text": "Uppercut"},
+            {"text": "Frontspark", "correct":  true},
+            {"text": "Sidespark"}
+          ]
+      }
+
+    ]
+}
