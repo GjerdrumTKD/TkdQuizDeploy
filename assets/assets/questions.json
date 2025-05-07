@@ -97,75 +97,75 @@
       },
       {
         "type": "Write",
-        "question": "Hva sier grunnsetning 1?",
+        "title": "Hva sier grunnsetning 1?",
         "answer":
-        [
-          {"text": "Vis lojalitet mot master og instruktør"}
-        ]
+          {
+            "text": "Vis lojalitet mot master og instruktør"
+          }
       },
       {
         "type": "Write",
-        "question": "Hva sier grunnsetning 2?",
+        "title": "Hva sier grunnsetning 2?",
         "answer":
-        [
-          {"text": "Vær høflig, ærlig og tålmodig"}
-        ]
+          {
+            "text": "Vær høflig, ærlig og tålmodig"
+          }
       },
       {
         "type": "Write",
-        "question": "Hva sier grunnsetning 3?",
+        "title": "Hva sier grunnsetning 3?",
         "answer":
-        [
-          {"text": "Ha selvdisiplin, selvkontroll og selvtillit"}
-        ]
+          {
+            "text": "Ha selvdisiplin, selvkontroll og selvtillit"
+          }
       },
       {
         "type": "Write",
-        "question": "Hva sier taekwondos lov nr 1?",
+        "title": "Hva sier taekwondos lov nr 1?",
         "answer":
-        [
-          {"text": "Jeg skal følge taekwondos regler"}
-        ]
+          {
+            "text": "Jeg skal følge taekwondos regler"
+          }
       },
       {
         "type": "Write",
-        "question": "Hva sier taekwondos lov nr 2?",
+        "title": "Hva sier taekwondos lov nr 2?",
         "answer":
-        [
-          {"text": "Jeg skal respektere instruktør og høyere graderte"}
-        ]
+          {
+            "text": "Jeg skal respektere instruktør og høyere graderte"
+          }
       },
       {
         "type": "Write",
-        "question": "Hva sier taekwondos lov nr 3?",
+        "title": "Hva sier taekwondos lov nr 3?",
         "answer":
-        [
-          {"text": "Jeg skal aldri misbruke Taekwndo"}
-        ]
+          {
+            "text": "Jeg skal aldri misbruke Taekwondo"
+          }
       },
       {
         "type": "Write",
-        "question": "Hva sier taekwondos lov nr 4?",
+        "title": "Hva sier taekwondos lov nr 4?",
         "answer":
-        [
-          {"text": "Jeg skal kjempe for frihet og rettferdighet"}
-        ]
+          {
+            "text": "Jeg skal kjempe for frihet og rettferdighet"
+          }
       },
       {
         "type": "Write",
-        "question": "Hva sier taekwondos lov nr 5?",
+        "title": "Hva sier taekwondos lov nr 5?",
         "answer":
-        [
-          {"text": "Jeg skal hjelpe til å bygge en fredelig verden"}
-        ]
+          {
+            "text": "Jeg skal hjelpe til å bygge en fredelig verden"
+          }
       },
       {
         "type": "Write",
-        "question": "Hva heter det koreanske flagget",
+        "title": "Hva heter det koreanske flagget",
         "answer":
-        [
-          {"text": "Taeguki"}
-        ]
+          {
+            "text": "Taeguki"
+          }
       },
       {
         "type": "PairMatch",
@@ -219,25 +219,25 @@
         "type": "Write",
         "title": "Hva betyr lav på koreansk?",
         "answer": 
-        [
-          {"keywords": ["Arae"]}
-        ]
+          {
+            "keywords": ["Arae"]
+          }
       },
       {
         "type": "Write",
         "title": "Hva betyr midten på koreansk?",
         "answer": 
-        [
-          {"keywords": ["Momtong"]}
-        ]
+          {
+            "keywords": ["Momtong"]
+          }
       },
       {
         "type": "Write",
         "title": "Hva betyr høy på koreansk?",
         "answer": 
-        [
-          {"keywords": ["Olgul"]}
-        ]
+          {
+            "keywords": ["Olgul"]
+          }
       },
       {
         "type": "PairMatch",
@@ -281,17 +281,17 @@
         "type": "Write",
         "title": "Hva heter lillefingersiden av en åpen hånd på koreansk?",
         "answer": 
-        [
-          {"keywords": ["Sonnal"]}
-        ]
+          {
+            "keywords": ["Sonnal"]
+          }
       },
       {
         "type": "Write",
         "title": "Hva heter tommelfingersiden av en åpen hånd på koreansk?",
         "answer": 
-        [
-          {"keywords": ["Deongsonnal"]}
-        ]
+          {
+            "keywords": ["Deongsonnal"]
+          }
       },
       {
         "type": "PairMatch",
