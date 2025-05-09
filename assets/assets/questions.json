@@ -220,7 +220,8 @@
         "title": "Hva betyr lav på koreansk?",
         "answer": 
           {
-            "keywords": ["Arae"]
+            "keywords": ["Arae"],
+            "text": "Lav heter arae"
           }
       },
       {
@@ -228,7 +229,8 @@
         "title": "Hva betyr midten på koreansk?",
         "answer": 
           {
-            "keywords": ["Momtong"]
+            "keywords": ["Momtong"],
+            "text": "Midten heter momtong"
           }
       },
       {
@@ -236,7 +238,8 @@
         "title": "Hva betyr høy på koreansk?",
         "answer": 
           {
-            "keywords": ["Olgul"]
+            "keywords": ["Olgul"],
+            "text": "Høy heter olgul"
           }
       },
       {
@@ -282,7 +285,8 @@
         "title": "Hva heter lillefingersiden av en åpen hånd på koreansk?",
         "answer": 
           {
-            "keywords": ["Sonnal"]
+            "keywords": ["Sonnal"],
+            "text": "Den heter sonnal"
           }
       },
       {
@@ -290,7 +294,8 @@
         "title": "Hva heter tommelfingersiden av en åpen hånd på koreansk?",
         "answer": 
           {
-            "keywords": ["Deongsonnal"]
+            "keywords": ["Deongsonnal"],
+            "text":  "Den heter deongsonnal"
           }
       },
       {
