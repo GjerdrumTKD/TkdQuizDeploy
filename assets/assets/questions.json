@@ -29,7 +29,7 @@
         "pairs":
           [
             ["Een", "Hana"],
-            ["To", "Tul"],
+            ["To", "Dul"],
             ["Tre", "Set"],
             ["Fire", "Net"],
             ["Fem", "Daseot"],
@@ -38,6 +38,22 @@
             ["Otte", "Yadul"],
             ["Ni", "Ahop"],
             ["Ti", "Yeol"]
+          ]
+      },
+      {
+        "type": "PairMatch",
+        "title": "Hvor mange steg har mønstrene?",
+        "pairs":
+          [
+            ["Chon-ji", "19"],
+            ["Tan-Gun", "21"],
+            ["To-San", "24"],
+            ["Won-Hyo", "28"],
+            ["Yul-Gok", "38"],
+            ["Joong Gun", "32"],
+            ["Toi-Gye", "37"],
+            ["Hwa Rang", "29"],
+            ["Choong Moo", "30"]
           ]
       },
       {
